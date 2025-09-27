@@ -1,0 +1,16 @@
+.footer {
+    background-color: #2D4B48;
+    color: white;
+    justify-items: center;
+    margin-top: 100px;
+    font-size: 24px;
+    padding: 10px 10px;
+}
+
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+    
+  
